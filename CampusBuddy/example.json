@@ -1,0 +1,98 @@
+{
+    "users": {
+        "user_id (the actual id)": {
+            "email": "billy@gmail.com",
+            "markers": {
+                "0": 1,
+                "1": 3,
+                "2": 5
+            }
+        },
+        "user_id_2": {
+            "email": "jmonks70@gmail.com",
+            "markers": {
+                "0": 2,
+                "1": 4
+            }
+        }
+    },
+
+    "markers": {
+        "1": {
+            "lat": 45.999,
+            "lon": -13.2444,
+            "delete_time": "some time"
+        },
+        "2": {
+            "lat": 45.999,
+            "lon": -13.2444,
+            "delete_time": "some time"
+        },
+        "3": {
+            "lat": 45.999,
+            "lon": -13.2444,
+            "delete_time": "some time"
+        },
+        "4": {
+            "lat": 45.999,
+            "lon": -13.2444,
+            "delete_time": "some time"
+        },
+        "5": {
+            "lat": 45.999,
+            "lon": -13.2444,
+            "delete_time": "some time"
+
+        }
+    },
+
+    "static_markers": {
+        "Hokie Grill": {
+            "queue": {
+                "length": 3,
+                "elems": {
+                    "1": {
+                        "rating": 2,
+                        "priority": 1
+                    },
+                    "2": {
+                        "rating": 3,
+                        "priority": 2
+                    },
+                    "3": {
+                        "rating": 1,
+                        "priority": 3
+                    }
+                }
+            },
+            "total": 6,
+            "avg": 2
+        },
+        "Owens Food Court": {
+            "queue": [],
+            "total": 0,
+            "avg": 0
+        },
+        "Lavery Hall": {
+            "queue": [],
+            "total": 0,
+            "avg": 0
+        },
+        "West End Market": {
+            "queue": [],
+            "total": 0,
+            "avg": 0
+        },
+        "D2 Dining Hall": {
+            "queue": [],
+            "total": 0,
+            "avg": 0
+        },
+        "Squires Student Center": {
+            "queue": [],
+            "total": 0,
+            "avg": 0
+        }
+    }
+
+}
